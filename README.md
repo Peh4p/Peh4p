@@ -215,7 +215,6 @@ Estou construindo meus projetos aos poucos enquanto avanço nos estudos.
 <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
 </div>
 
 ---
