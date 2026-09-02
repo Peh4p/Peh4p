@@ -211,9 +211,10 @@ Estou construindo meus projetos aos poucos enquanto avanço nos estudos.
 <img src="https://img.shields.io/badge/GitHub-Peh4p-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/feed/">
-<img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pedro-almeida-2a10923a6/">
+<img src="https://img.shields.io/badge/LinkedIn-Pedro%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 </div>
 
