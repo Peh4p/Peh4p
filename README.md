@@ -7,7 +7,7 @@
 🐍 Python • 🟨 JavaScript • 🔵 C • 🌐 HTML
 
 [![GitHub](https://img.shields.io/badge/GitHub-Peh4p-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Peh4p)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-almeida-2a10923a6/)
 
 </div>
 
